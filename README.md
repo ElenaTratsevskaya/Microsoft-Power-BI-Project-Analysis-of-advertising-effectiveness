@@ -1,4 +1,4 @@
-# Microsoft-Power-BI-GameDev-Project
+# Microsoft-Power-BI-Project_Analysis of the effectiveness of advertising channels
 Анализ эффективности каналов привлечения
 
 **ЗАДАЧИ**<br><br>
